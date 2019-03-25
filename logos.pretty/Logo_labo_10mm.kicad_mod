@@ -1,0 +1,11 @@
+(module Logo_labo_10mm (layer F.Cu) (tedit 593880CC)
+  (fp_text reference REF** (at 0 0.5) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Logo_labo_10mm (at 0 -0.5) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_circle (center 18.796 -2.794) (end 18.796 -5.207) (layer F.SilkS) (width 0.15))
+  (fp_circle (center 5.08 -5.08) (end 5.08 0) (layer F.SilkS) (width 0.15))
+  (fp_circle (center 13.335 -2.794) (end 13.335 -5.207) (layer F.SilkS) (width 0.15))
+)
